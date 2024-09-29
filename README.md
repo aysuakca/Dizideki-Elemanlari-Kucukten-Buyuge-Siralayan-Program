@@ -1,0 +1,1 @@
+# Dizideki-Elemanlari-Kucukten-Buyuge-Siralayan-Program
